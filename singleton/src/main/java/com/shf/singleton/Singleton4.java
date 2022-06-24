@@ -1,4 +1,4 @@
-package com.shf.single;
+package com.shf.singleton;
 
 /**
  * 懒汉式： 线程非安全

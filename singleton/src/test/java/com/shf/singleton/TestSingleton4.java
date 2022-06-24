@@ -1,7 +1,5 @@
 package com.shf.singleton;
 
-import com.shf.single.Singleton4;
-
 import java.util.concurrent.*;
 
 

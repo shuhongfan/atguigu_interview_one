@@ -1,4 +1,4 @@
-package com.shf.single;
+package com.shf.singleton;
 
 /**
  * 懒汉式：延迟创建对象 静态内部类形式（适用于多线程）

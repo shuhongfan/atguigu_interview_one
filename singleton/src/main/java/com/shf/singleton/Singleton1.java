@@ -1,4 +1,4 @@
-package com.shf.single;
+package com.shf.singleton;
 
 /**
  * 饿汉式：  不存在线程安全问题

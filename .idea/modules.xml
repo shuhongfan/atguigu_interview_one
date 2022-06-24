@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/03_代码/02_javassm_code/01.Spring Bean的作用域代码/01.Spring Bean的作用域代码/01.Spring Bean的作用域代码.iml" filepath="$PROJECT_DIR$/03_代码/02_javassm_code/01.Spring Bean的作用域代码/01.Spring Bean的作用域代码/01.Spring Bean的作用域代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/02_javassm_code/02.Spring支持的常用数据库事务传播属性和事务隔离级别/02.Spring支持的常用数据库事务传播属性和事务隔离级别/02.Spring支持的常用数据库事务传播属性和事务隔离级别.iml" filepath="$PROJECT_DIR$/03_代码/02_javassm_code/02.Spring支持的常用数据库事务传播属性和事务隔离级别/02.Spring支持的常用数据库事务传播属性和事务隔离级别/02.Spring支持的常用数据库事务传播属性和事务隔离级别.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/02_javassm_code/03.SpringMVC中如何解决POST请求中文乱码问题GET的又如何处理呢/03.SpringMVC中如何解决POST请求中文乱码问题GET的又如何处理呢/03.SpringMVC中如何解决POST请求中文乱码问题GET的又如何处理呢.iml" filepath="$PROJECT_DIR$/03_代码/02_javassm_code/03.SpringMVC中如何解决POST请求中文乱码问题GET的又如何处理呢/03.SpringMVC中如何解决POST请求中文乱码问题GET的又如何处理呢/03.SpringMVC中如何解决POST请求中文乱码问题GET的又如何处理呢.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/02_javassm_code/04.简单的谈一下SpringMVC的工作流程/04.简单的谈一下SpringMVC的工作流程/04.简单的谈一下SpringMVC的工作流程.iml" filepath="$PROJECT_DIR$/03_代码/02_javassm_code/04.简单的谈一下SpringMVC的工作流程/04.简单的谈一下SpringMVC的工作流程/04.简单的谈一下SpringMVC的工作流程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/02_javassm_code/05.MyBatis中当实体类中的属性名和表中的字段名不一样怎么办 ？/05.MyBatis中当实体类中的属性名和表中的字段名不一样怎么办 ？/SSM_MyBatis01.iml" filepath="$PROJECT_DIR$/03_代码/02_javassm_code/05.MyBatis中当实体类中的属性名和表中的字段名不一样怎么办 ？/05.MyBatis中当实体类中的属性名和表中的字段名不一样怎么办 ？/SSM_MyBatis01.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/atguigu_interview_one.iml" filepath="$PROJECT_DIR$/.idea/atguigu_interview_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/01_javase_code/init_code/init_code.iml" filepath="$PROJECT_DIR$/03_代码/01_javase_code/init_code/init_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/01_javase_code/offer_code/offer_code.iml" filepath="$PROJECT_DIR$/03_代码/01_javase_code/offer_code/offer_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/01_javase_code/passvalue_code/passvalue_code.iml" filepath="$PROJECT_DIR$/03_代码/01_javase_code/passvalue_code/passvalue_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/01_javase_code/singleton_code/singleton_code.iml" filepath="$PROJECT_DIR$/03_代码/01_javase_code/singleton_code/singleton_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/01_javase_code/step_code/step_code.iml" filepath="$PROJECT_DIR$/03_代码/01_javase_code/step_code/step_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_代码/01_javase_code/variable_code/variable_code.iml" filepath="$PROJECT_DIR$/03_代码/01_javase_code/variable_code/variable_code.iml" />
     </modules>
   </component>
 </project>

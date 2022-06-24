@@ -1,7 +1,5 @@
 package com.shf.singleton;
 
-import com.shf.single.Singleton5;
-
 import java.util.concurrent.*;
 
 public class TestSingleton5 {

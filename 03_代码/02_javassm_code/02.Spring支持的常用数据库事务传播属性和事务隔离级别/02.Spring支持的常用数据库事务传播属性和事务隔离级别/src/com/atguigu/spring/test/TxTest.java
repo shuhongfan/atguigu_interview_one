@@ -3,7 +3,7 @@ package com.atguigu.spring.test;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -11,13 +11,13 @@ import com.atguigu.spring.tx.dao.BookShopDao;
 import com.atguigu.spring.tx.service.BookShopService;
 import com.atguigu.spring.tx.service.Cashier;
 
-class TxTest {
+public class TxTest {
 	
 	//创建IOC容器对象
 	ApplicationContext ioc = new ClassPathXmlApplicationContext("beans-tx.xml");
 	
 	@Test
-	void testBookShopDao() {
+	public void testBookShopDao() {
 		//获取BookDao
 		BookShopDao bookShopDao = (BookShopDao) ioc.getBean("bookShopDao");
 		double bookPrice = bookShopDao.getBookPriceByIsbn("1001");
@@ -29,13 +29,13 @@ class TxTest {
 	}
 	
 	@Test
-	void testBookShopService() {
+	public void testBookShopService() {
 		BookShopService bookShopService = (BookShopService) ioc.getBean("bookShopService");
 		bookShopService.purchase(1, "1001");
 	}
 	
 	@Test
-	void testCashier() {
+	public void testCashier() {
 		Cashier cashier = (Cashier) ioc.getBean("cashier");
 		//创建List
 		List<String> isbns = new ArrayList<>();

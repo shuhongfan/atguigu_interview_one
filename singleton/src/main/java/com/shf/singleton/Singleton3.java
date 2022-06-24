@@ -1,4 +1,4 @@
-package com.shf.single;
+package com.shf.singleton;
 
 import java.io.IOException;
 import java.util.Properties;
